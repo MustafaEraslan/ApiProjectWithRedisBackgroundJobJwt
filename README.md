@@ -3,8 +3,6 @@
 
 Hello,
 
-I have just finished my Arvato .Net Development Bootcamp project.
-
 The "endpoints" I have completed in my project are as in the subsection.
 
 ![image](https://user-images.githubusercontent.com/44713722/179116148-d20a74fe-b2de-4631-892f-6075f43d45e1.png)
