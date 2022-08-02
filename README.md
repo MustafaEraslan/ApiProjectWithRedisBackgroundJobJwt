@@ -3,7 +3,7 @@
 
 Hello,
 
-The "endpoints" I have completed in my project are as in the subsection.
+The "endpoints" I have completed in my project are as in the subsection. 
 
 ![image](https://user-images.githubusercontent.com/44713722/179116148-d20a74fe-b2de-4631-892f-6075f43d45e1.png)
 ![image](https://user-images.githubusercontent.com/44713722/179116167-706cac32-15d7-4626-809a-328607ef4169.png)
