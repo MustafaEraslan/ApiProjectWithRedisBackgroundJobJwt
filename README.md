@@ -50,7 +50,7 @@ My tests are as follows;
 
 [HttpGet] Genres information of the movie can be called by giving movieId value with "ListGenres".
 For example;
-
+ 
 ![image](https://user-images.githubusercontent.com/44713722/179119297-2ea7287c-ef3a-43db-bdf2-09cf2794f92d.png)
 
 [HttpPost] Genre details of the movie can be added with "AddGenre" (Jwt token should be taken for security reasons)
